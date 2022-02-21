@@ -1,7 +1,7 @@
 # :heart: BloodMS :heart:
-![GitHub last commit](https://img.shields.io/github/last-commit/cimplesid/BloodMS.svg)
-[![](https://img.shields.io/github/stars/cimplesid/BloodMS.svg)](https://github.com/cimplesid/BloodMS)
-![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/pronabsen/BloodBankFlutter.svg)
+[![](https://img.shields.io/github/stars/pronabsen/BloodBankFlutter.svg)](https://github.com/pronabsen/BloodBankFlutter)
+![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)
 
  :fire: :fire: :fire: A blood management project. :fire: :fire: :fire:
 
