@@ -1,4 +1,4 @@
-# :heart: BloodMS :heart:
+# :heart: Blood Bank Flutter :heart:
 ![GitHub last commit](https://img.shields.io/github/last-commit/pronabsen/BloodBankFlutter.svg)
 [![](https://img.shields.io/github/stars/pronabsen/BloodBankFlutter.svg)](https://github.com/pronabsen/BloodBankFlutter)
 ![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)
